@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: rgba(0, 0, 0, 0.5)
-    url(assets/images/home.avif)
+    url(assets/images/home.jpg)
     center fixed;
   background-size: cover;
   background-position: center;
